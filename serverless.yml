@@ -1,8 +1,8 @@
 service:
   name: test-coldstart
 # app and org for use with dashboard.serverless.com
-app: coldstart
-org: betclicgroup
+#app: coldstart
+#org: betclicgroup
 
 package:
   individually: true
